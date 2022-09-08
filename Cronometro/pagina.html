@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cronômetro</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div>
+    <h1 name="tempo" id="tempo">00:00:00 </h1>
+    <button class="start_bt" onclick="Start()">Iniciar</button>
+    <button class="pause_bt" onclick="Pause()">Pausar</button>
+    <button class="stop_bt" onclick="Stop()">Parar</button>
+    <br>
+    <button class="volta_bt" onclick="Volta()">Volta</button>
+</div>
+<br>
+<div id="volta"></div>
+
+<div id="log" name='log'>
+    log
+</div>
+<script src="script.js"></script>
+</body>
+</html>
