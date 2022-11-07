@@ -1,7 +1,8 @@
 # Repositorio de estudos em JavaScript
 
-Cronometro: Cronometro feito em JS 
-Pokedex: Pokedex criado com 
+- Cronometro: Cronometro feito em JS;
+
+- Pokedex: Pokedex criado com a [API POKEAPI](https://pokeapi.co/) 
 
 ### Estudos para portar [RandonSaturday](https://github.com/Mazuricio/RandomSaturday) para JavaScript:
 
