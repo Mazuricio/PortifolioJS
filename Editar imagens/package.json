@@ -1,0 +1,26 @@
+{
+  "name": "editar-imagens",
+  "version": "1.0.0",
+  "description": "Editor de imagens simples",
+  "main": "editar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mazuricio/PortifolioJS.git"
+  },
+  "keywords": [
+    "edit",
+    "image"
+  ],
+  "author": "Mazuricio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mazuricio/PortifolioJS/issues"
+  },
+  "homepage": "https://github.com/Mazuricio/PortifolioJS#readme",
+  "dependencies": {
+    "jimp": "^0.16.2"
+  }
+}

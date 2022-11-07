@@ -6,7 +6,7 @@
 
 ### Estudos para portar [RandonSaturday](https://github.com/Mazuricio/RandomSaturday) para JavaScript:
 
- - [ ] Editar imagens (escrever texto, aplicar um filtro e redimencionar);
+ - [x] Editar imagens (escrever texto);
  - [ ] ler Arquivos e Sortear um arquivo;
  - [ ] Gravar e Ler dados (Verificação de horario de post);
  - [ ] Notificação Sistema Operacional;
